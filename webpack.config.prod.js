@@ -15,7 +15,7 @@ const prodConfig = {
   plugins: [
     new CleanWebpackPlugin('dist'),
     new HtmlWebpackPlugin({
-      title: '海王电竞',
+      title: 'Create-pc',
       template: './tmpl/index.html'
     }),
     new MiniCssExtractPlugin({

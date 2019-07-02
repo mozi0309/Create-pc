@@ -6,7 +6,7 @@ class App extends React.Component {
   render () {
     return (
       <div>
-        <h1>Hello, Lisa</h1>
+        <h1>Hello, Mozi</h1>
       </div>
     )
   }
